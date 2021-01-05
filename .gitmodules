@@ -4,9 +4,3 @@
 [submodule "code/editor"]
 	path = code/editor
 	url = https://github.com/oohicksyoo/RPG-Editor.git
-[submodule "code/project/engine"]
-	path = code/project/engine
-	url = https://github.com/oohicksyoo/RPG-Engine.git
-[submodule "code/project/editor"]
-	path = code/project/editor
-	url = https://github.com/oohicksyoo/RPG-Editor.git
